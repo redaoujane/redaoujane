@@ -28,8 +28,6 @@ My work focuses on combining:
 - ☁️ Cloud-native architecture and deployment
 - 🔐 Security-first engineering and threat mitigation
 
-I aim to create solutions that are not only intelligent, but also production-ready and secure.
-
 ---
 
 ## 🔭 What I'm working on in 2026
