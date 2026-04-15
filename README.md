@@ -3,7 +3,7 @@
 
 # 👋 I'm Reda Oujane
 
-### AI & Data Enthusiast • Software Developer • Agentic AI & Platform Engineering
+### Python & PySide6 Developer • Cybersecurity & Ethical Hacking Enthusiast • Freelance Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redaoujane/)
 [![Twitter/X](https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
@@ -19,15 +19,17 @@
 
 ## 💡 About Me
 
-I am a developer specializing in **Artificial Intelligence, Cloud Infrastructure, and Cybersecurity**.
+I am a developer specializing in Software Development, Desktop Applications, and Cybersecurity.
 
-I design and build **AI-powered applications**, deploy them on scalable cloud environments, and ensure they are secure by design.
+I design and build custom software solutions and management systems, and I have a strong passion for understanding security measures and ethical hacking.
 
 My work focuses on combining:
-- 🤖 AI/ML models and automation
-- ☁️ Cloud-native architecture and deployment
-- 🔐 Security-first engineering and threat mitigation
 
+💻 Python & Desktop Development: Building practical applications using PySide6 and SQLite.
+
+🔐 Cybersecurity: Exploring penetration testing, security bypass mechanisms, and threat mitigation.
+
+⚙️ System Architecture & Logic: Expanding my foundational skills in C programming and software engineering
 ---
 
 ## 🔭 What I'm working on in 2026
